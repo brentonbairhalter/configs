@@ -1,0 +1,87 @@
+{
+  "description": "ford bronco area_51",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1U0rMIhKlDkiLzQNdbsfA+TnsMInuuklRzF83DPFbK4gG7NmAaW4h79SngxlbW5o2pqAfRgM8z+r+TqpJkdlZjFSo/p+q9yq+PjKprS43ON+/4xi8AK31cp8eE9E3Fs/JSQJZOs49nEQ8xB5qMqmpGv9jwNMxBNxNMaeCOD7COrgIsR66ELhk6u8o3CdljFaNGZQOjZQTYgmW0G8X+pjlkpwzxdJL58e1UkoQ3F2Sc5lNqFxUO083FKYNaprPA66xQzVev6TZm0Bd87erpp5PDx3foRgutcShiV2wWePOsXNGn67gfeAzHxreLfFKIrsqn8xef4nNGSr3BIChu3AiQIDAQAB",
+  "manifest_version": 2,
+  "name": "ford area 51 theme",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/bronco_fp_bg.jpg"
+    },
+    "colors": {
+      "bookmark_text": [
+        75,
+        90,
+        103
+      ],
+      "button_background": [
+        16,
+        16,
+        16,
+        0.9
+      ],
+      "frame": [
+        75,
+        90,
+        103
+      ],
+      "frame_inactive": [
+        16,
+        16,
+        16
+      ],
+      "frame_incognito": [
+        16,
+        16,
+        16
+      ],
+      "frame_incognito_inactive": [
+        126,
+        139,
+        156
+      ],
+      "ntp_background": [
+        16,
+        16,
+        16
+      ],
+      "ntp_link": [
+        75,
+        90,
+        103
+      ],
+      "ntp_text": [
+        75,
+        90,
+        103
+      ],
+      "tab_background_text": [
+        1,
+        49,
+        114
+      ],
+      "tab_text": [
+        238,
+        32,
+        36
+      ],
+      "toolbar": [
+        16,
+        16,
+        16
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    },
+    "tints": {
+      "buttons": [
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "0.13"
+}
