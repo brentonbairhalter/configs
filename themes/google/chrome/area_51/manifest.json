@@ -5,7 +5,8 @@
   "name": "ford area 51 theme",
   "theme": {
     "images": {
-      "theme_ntp_background": "images/bronco_fp_bg.jpg"
+      "theme_ntp_attribution": "images/theme_ntp_attribution.png",
+      "theme_ntp_background": "images/theme_ntp_background.jpg"
     },
     "colors": {
       "bookmark_text": [
